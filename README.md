@@ -1,5 +1,6 @@
 # FootballAdsBannersSegmentation
-Detect advertising banners on the Champions League games
+
+Objective: Detect advertising banners on the Champions League games and try to achieve [this](https://www.youtube.com/watch?v=_HreDhkq4gk&t=10s).
 
 About Dataset
 
