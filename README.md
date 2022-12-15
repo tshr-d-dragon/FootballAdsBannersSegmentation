@@ -8,7 +8,7 @@ Dataset was originally collected by [WinStars](https://www.winstars.tech/) and c
 
 credits for dataset: [Kaggle](https://www.kaggle.com/datasets/isaienkov/football-advertising-banners-detection)
 
-### Few predictions:
+### Sample prediction:
 | Image | Ground Truth | Prediction |
 |---|---|---|
 | ![1](https://github.com/tshr-d-dragon/FootballAdsBannersSegmentation/blob/main/qakzmgjyxt59qpq.png) | ![2](https://github.com/tshr-d-dragon/FootballAdsBannersSegmentation/blob/main/mask_qakzmgjyxt59qpq.png) | ![3](https://github.com/tshr-d-dragon/FootballAdsBannersSegmentation/blob/main/pred_qakzmgjyxt59qpq.png) |
